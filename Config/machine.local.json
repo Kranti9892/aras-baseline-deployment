@@ -1,0 +1,11 @@
+{
+  "InstallPath": "D:\\Steepgraph\\Aras",
+  "SqlInstance": "localhost",
+  "DatabaseName": "Innovator_DEV",
+  "VaultPath": "D:\\Steepgraph\\ArasVault",
+  "IisSiteName": "ArasDEV",
+  "Port": 8080,
+  "CodeTreePath": ".\\Baseline\\CodeTree",
+  "BaselineDbFile": ".\\Baseline\\DB\\Baseline.bak",
+  "LicenseFile": ".\\Baseline\\License\\license.xml"
+}
